@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thefedotovs/static/css/main.c91b297c.css",
+    "main.js": "/thefedotovs/static/js/main.be6cb523.js",
+    "index.html": "/thefedotovs/index.html",
+    "main.c91b297c.css.map": "/thefedotovs/static/css/main.c91b297c.css.map",
+    "main.be6cb523.js.map": "/thefedotovs/static/js/main.be6cb523.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c91b297c.css",
+    "static/js/main.be6cb523.js"
+  ]
+}
