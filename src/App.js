@@ -15,6 +15,9 @@ function App() {
     <BrowserRouter>
       <ApolloProvider client={client}>
         <div className="App">
+
+        <Homepage />
+        
           <Routes>
             <Route path="/" element={<Homepage />} />
 
